@@ -1,9 +1,4 @@
-{-# LANGUAGE OverloadedStrings #-}
-
-import qualified Data.Text as T
-import qualified Data.Text.IO as TIO
 import Data.Char (ord)
-import Data.Foldable (toList)
 import Data.List (sort)
 
 main :: IO ()
